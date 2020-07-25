@@ -12,7 +12,7 @@ author: Daniyal Arif
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am Daniyal Arif. A data scientist by choice. I have always enjoyed playing with numbers. Now, I play with number analysis."
+  About Me: I am Daniyal Arif. A data scientist by choice. I have always enjoyed playing with numbers. Now, I play with number analysis.
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
